@@ -2,9 +2,9 @@
 Aprendendo Flask
 
 
-python -m venv #<nome da venv>
+python -m venv <nome da venv>
 
-cd #<nome da venv>/cd scripts
+cd <nome da venv>/cd scripts
 
 activate
 
