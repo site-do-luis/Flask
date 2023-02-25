@@ -4,7 +4,8 @@ Aprendendo Flask
 
 python -m venv #nome da venv
 
-cd <#ome da venv
+cd #nome da venv
+
 cd scripts
 
 activate
